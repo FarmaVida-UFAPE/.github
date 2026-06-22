@@ -1,11 +1,11 @@
 ### Caio 
 - Seguranca 
 - Delivery
-- 
+  
 ### Gabriel 
 - RH 
 - Financeiro
-- 
+  
 ### Jorge 
 - Vendas
 - Compras
